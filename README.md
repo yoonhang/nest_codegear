@@ -1,3 +1,7 @@
+https://www.youtube.com/watch?v=QniEcuwvLSU&list=PLeNJ9AVv90q1kEX-bz1r_56imtp5_aJ6q&index=1
+
+CODE GEAR - 프로그래밍
+
 # nest-sample
 ### nestjs sample project
 
