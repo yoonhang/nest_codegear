@@ -14,9 +14,9 @@ function ormConfig(): TypeOrmModuleOptions {
     let ormconfig: TypeOrmModuleOptions = {
         name: 'default',
         type: 'mysql',
-        database: 'test',
+        database: 'mystudy',
         host: 'localhost',
-        port: 13306,
+        port: 3306,
         username: 'root',
         password: 'root',
         logging: true,
